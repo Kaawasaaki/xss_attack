@@ -1,4 +1,4 @@
-# xss_attack
+# CSRF_attack
 A html payload to deliver an attack to exploit CSRF vulnerability (Cross-Site Request Forgery) in a vulnerable website
 
 
