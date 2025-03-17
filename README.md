@@ -3,3 +3,5 @@ A html payload to deliver an attack to exploit CSRF vulnerability (Cross-Site Re
 
 
 This was used in a lab session in portswigger in the lab name of "CSRF vulnerability with no defenses" which gives a deliberate vulnerable website to practice attacks on
+
+(This is some college stuff aswell)
